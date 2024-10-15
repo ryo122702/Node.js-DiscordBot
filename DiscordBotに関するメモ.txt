@@ -1,0 +1,9 @@
+実際に使用したい場合は、Node.js、Discord.jsを公式のサイトからダウンロードしてください。
+
+Discord上で使用できるコマンド
+!startgameR
+!stopgameR
+!pokemon 人数
+!ygo 人数
+!valoA 人数（5人まで）
+!valoB 人数（5人まで）
