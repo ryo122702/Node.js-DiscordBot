@@ -8,9 +8,9 @@ const client = new Client({
             GatewayIntentBits.MessageContent,] });
 const statusHandler = require('./status.js')(client);
 
-const TOKEN = 'MTI4MjQwNTcwNjI4MDA3NTMwNA.GuLsoX.D9SCwz3SWTErdjSTlxSNZqobGWKCyfpGsUX9LQ';
-const GUILD_ID = '1225964275072503919';
-const CLIENT_ID = 'kyo7944';
+const TOKEN = 'YOUR_TOKEN';
+const GUILD_ID = 'YOUR_GUILD';
+const CLIENT_ID = 'YOUR_ID';
 const SERVER_URL = 'http://localhost:3000';
 let sta = '';
 // ステータス変更の関数
